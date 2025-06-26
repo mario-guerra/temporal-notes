@@ -28,6 +28,8 @@ What happened??
 
 I ran the command and I see output, but there's no explanation of what I'm looking at so it's not super informative.
 
+I went back and reviewed the goals of the exercise and I do now see that based on the results of the final command I ran, the "Hello {name}" code was indeed the business logic. However, I'm not any better off in understanding Temporal at this point than I was before I started.
+
 
 
 
